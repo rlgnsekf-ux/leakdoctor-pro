@@ -1,1 +1,22 @@
-{"name": "누수닥터 PRO 1.0", "short_name": "누수닥터 PRO", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#101d30", "theme_color": "#101d30", "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}]}
+{
+  "name": "누수닥터 PRO 1.0",
+  "short_name": "누수닥터 PRO",
+  "start_url": "/leakdoctor-pro/",
+  "scope": "/leakdoctor-pro/",
+  "display": "standalone",
+  "background_color": "#101d30",
+  "theme_color": "#101d30",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "id": "/leakdoctor-pro/"
+}
