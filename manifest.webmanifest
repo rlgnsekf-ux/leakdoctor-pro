@@ -1,7 +1,7 @@
 {
   "name": "누수닥터 PRO 1.0",
   "short_name": "누수닥터 PRO",
-  "start_url": "/leakdoctor-pro/?app=leakdoctor-pro-v11"
+  "start_url": "/leakdoctor-pro/?app=leakdoctor-pro-v11",
   "scope": "/leakdoctor-pro/",
   "display": "standalone",
   "background_color": "#101d30",
